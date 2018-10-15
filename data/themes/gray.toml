@@ -1,0 +1,20 @@
+# Theme metadata
+name = "Black"
+
+# Is theme light or dark?
+light = true
+
+# Primary
+primary = "#7C0A02"
+primary_light = "#b22222"
+primary_dark = "#5e1914"
+
+# Menu
+menu_primary = "#333"
+menu_text = "#aaa"
+menu_text_active = "#fff"
+menu_title = "#fff"
+
+# Home sections
+home_section_odd = "rgb(255, 255, 255)"
+home_section_even = "rgb(247, 247, 247)"
